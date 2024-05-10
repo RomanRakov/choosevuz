@@ -99,7 +99,6 @@ namespace choosevuz
             {
                 DataGridViewRow selectedRow = TableUniversities.Rows[e.RowIndex];
 
-                string id = selectedRow.Cells["Id"].Value.ToString();
                 string name = selectedRow.Cells["Name"].Value.ToString();
                 string city = selectedRow.Cells["City"].Value.ToString();
 
@@ -166,11 +165,6 @@ namespace choosevuz
 
                         UpdateDataGridView(universities);
                         
-                    }
-                    foreach (var item in universities)
-                    {
-                        MessageBox.Show(item.Name);
-
                     }
 
                     isDeleteMode = false; 
