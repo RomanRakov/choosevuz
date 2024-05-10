@@ -1,0 +1,11 @@
+C:\Программы\с#\choosevuz\choosevuz\bin\Debug\choosevuz.exe.config
+C:\Программы\с#\choosevuz\choosevuz\bin\Debug\choosevuz.exe
+C:\Программы\с#\choosevuz\choosevuz\bin\Debug\choosevuz.pdb
+C:\Программы\с#\choosevuz\choosevuz\obj\Debug\choosevuz.csproj.AssemblyReference.cache
+C:\Программы\с#\choosevuz\choosevuz\obj\Debug\choosevuz.Properties.Resources.resources
+C:\Программы\с#\choosevuz\choosevuz\obj\Debug\choosevuz.csproj.GenerateResource.cache
+C:\Программы\с#\choosevuz\choosevuz\obj\Debug\choosevuz.csproj.CoreCompileInputs.cache
+C:\Программы\с#\choosevuz\choosevuz\obj\Debug\choosevuz.exe
+C:\Программы\с#\choosevuz\choosevuz\obj\Debug\choosevuz.pdb
+C:\Программы\с#\choosevuz\choosevuz\obj\Debug\choosevuz.InfoForm.resources
+C:\Программы\с#\choosevuz\choosevuz\obj\Debug\choosevuz.MainForm.resources
